@@ -1,0 +1,5 @@
+_associate_d_g	0
+_have_d_s	1
+_interact_g_g	2
+_relate_c_d	3
+_relate_c_g	4
